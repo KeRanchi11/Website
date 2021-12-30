@@ -1,0 +1,53 @@
+@font-face{
+    font-family: iranSansFont;
+    src: url(../Fonts/ir_sans_medium.ttf);
+}
+
+.plans{
+    width: 70%;
+    border: 2px solid #646E78;
+    padding: 0 16px;
+    clear: both;
+}
+
+#section-plan__plus{
+    background: #DCCCBB;
+    border-left: none;
+}
+
+#section-plan__free{
+    background: #A7754D;
+    float: right;
+    margin: 16px 0;
+    border-right: none;
+}
+
+#section-plan__premium{
+    background: #EAB464;
+    border-left: none;
+}
+
+
+.plans a {
+    display: block;
+    text-decoration: none;
+    text-align: right;
+    padding: 8px;
+}
+
+.sh-plus {
+    color: #8D98A7;
+}
+
+.section-header{
+    font-weight: 400;
+    padding: 16px 0;
+
+}
+
+.section-info{
+    padding: 16px;
+    font-size: 16px;
+    border: 2px solid #2F1B25;
+    border-radius: 3px;
+}

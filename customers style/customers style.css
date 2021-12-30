@@ -1,0 +1,56 @@
+@font-face{
+    font-family: iranSansFont;
+    src: url(../Fonts/ir_sans_medium.ttf);
+}
+
+.testimonial{
+    font-size: 18px;
+    margin: 36px;
+}
+
+#customer-2.testimonial{
+    text-align: right;
+}
+
+.testimonial:first-of-type{
+    margin-top: 100px;
+}
+
+.testimonial__image{
+    width: 40%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.customer-image{
+    width: 100%;
+    border-radius: 20%;
+}
+
+.testimonial__info{
+    width: 20%;
+    text-align: right;
+    padding: 16px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.testimonial__name{
+    margin: 3px;
+    color: chocolate;
+}
+
+.testimonial__job{
+    margin: 0;
+    font-size: 18px;
+    color: #757575;
+}
+
+.testimonial__opnion{
+    margin: 3px;
+    
+}
+
+
+
+
